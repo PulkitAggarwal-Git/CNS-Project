@@ -326,7 +326,7 @@ while improving the FeatureNet architecture through a dual-branch statistical le
 
 # Citation
 
-If you use this project or the original NeuroScope methodology, please cite the original paper:
+If you use this project, please cite the original paper:
 
 ```bibtex
 @inproceedings{wu2025neuroscope,
